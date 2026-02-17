@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="22" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lyondecamargo/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="Linkedin Image"></a>
 </div>
 
 ###
