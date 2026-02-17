@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lyondecamargo/" target="_blank">
+  <a href="https://www.linkedin.com/in/lyondecamargo/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="22" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/lyondazl/" target="_blank">
+  <a href="https://www.instagram.com/lyondazl/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="22" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/lyondazl" target="_blank">
+  <a href="https://discord.com/lyondazl">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="72" height="22" alt="discord logo"  />
   </a>
 </div>
